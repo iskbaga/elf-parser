@@ -3,7 +3,7 @@
 ## Elf-file parser that extracts `.text` and `.symtab` from the elf file.
 
 ### Supports only RISC-V RV32I, RV32M 
-# If Elf file contains a command which is not listed here, parser will output `unknown_command`.
+### If Elf file contains a command which is not listed here, parser will output `unknown_command`.
 
 
 #### Sample of `.text` output
