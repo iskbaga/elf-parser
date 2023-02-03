@@ -24,7 +24,6 @@
    100a0: 	00a00893	   addi	a7, zero, 10
    100a4: 	0ff0000f	  fence	
    100a8: 	00000073	  ecall	
-...
 ```
 
 #### Sample of `.symtab` output
